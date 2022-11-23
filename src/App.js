@@ -6,6 +6,7 @@ import Alert from './components/Alert';
 import About from './components/About';
 import React,{useState} from 'react'
 
+// This is a Text Analyzer application
 import {
   BrowserRouter as Router,
   Routes,
